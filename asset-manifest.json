@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NeuraTextLab/static/css/main.31d6cfe0.css",
+    "main.js": "/NeuraTextLab/static/js/main.3b86bbe4.js",
+    "static/js/453.117b0875.chunk.js": "/NeuraTextLab/static/js/453.117b0875.chunk.js",
+    "index.html": "/NeuraTextLab/index.html",
+    "main.3b86bbe4.js.map": "/NeuraTextLab/static/js/main.3b86bbe4.js.map",
+    "453.117b0875.chunk.js.map": "/NeuraTextLab/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3b86bbe4.js"
+  ]
+}
