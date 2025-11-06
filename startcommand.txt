@@ -1,0 +1,1 @@
+cmd /c "cd /d c:\Users\hp\OneDrive\Desktop\Reactjs\ReactProjects\my-app && npm start"
